@@ -1,0 +1,2 @@
+{:require  [mihle.app]
+ :init-fns [mihle.app/init]}
